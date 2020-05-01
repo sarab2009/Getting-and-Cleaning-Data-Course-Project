@@ -24,7 +24,7 @@ The following files are available for the train and test data. Their description
 **Note:** Inertial Signals are excluded and not used in this project.
 
 ## Featuers Information
-According tho the researchers' description the features are introduced as below:
+According to the researchers' description, the features are introduced as below:
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. These time domain signals (prefix 't' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (tBodyAcc-XYZ and tGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
